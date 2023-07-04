@@ -1,5 +1,5 @@
 # Todo-Priority-List
-Created a priority list command line interface using python. Used functional programming approach to solve different tasks
+Created a priority list command line interface using python. Used functional programming approach to solve different tasks.
 This program is a simple to-do list application with priority that allows users to add, list, delete, and mark tasks as completed. The program reads user input and calls functions accordingly. 
 
 The program has several functions to implement each operation, such as addingTasks, listingTasks, delete, done, report, and Help. The add function appends new tasks to the list of tasks and sorts them in ascending order by priority. It then saves the tasks to a task.txt file. The listing function reads the tasks from the task.txt file and displays them. 
